@@ -1,0 +1,35 @@
+GET http://localhost:8082/get HTTP/1.1
+
+###
+POST http://localhost:8082/post HTTP/1.1
+###
+GET http://localhost:8082/assets/a.html HTTP/1.1
+###
+GET http://localhost:8082/static/b.html HTTP/1.1
+###
+GET http://localhost:8082/wangtao/28 HTTP/1.1
+
+###
+GET http://localhost:8082/user/wa HTTP/1.1
+
+###
+GET http://localhost:8082/test?firstName=wt&lastName=xz HTTP/1.1
+
+###
+curl http://localhost:8082/test?firstName=wt111
+
+###
+curl -X POST  http://localhost:8082/test/post?firstName=wt111 -d 'name=wangtao'
+
+###
+POST  http://localhost:8082/test/post
+Content-Type: application/x-www-form-urlencoded
+
+firstName=foo&lastName=bar
+
+
+###
+curl http://localhost:8082/testing?name=wt111&address=新田&birthday=1992-06-26
+
+###
+curl http://localhost:8082/testing?age=11&address=南平&name=新田
