@@ -1,0 +1,8 @@
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:24: 输出数据，并中断执行
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
+wt_2020/04/20 18:47:21 f:/go_project/go-gin/dd_test/log_example/example/logs.go:22: 将内容写入日志文件中
